@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/api/">
+    <Project Path="src/api/Dorva.API/Dorva.API.csproj" />
+  </Folder>
+  <Folder Name="/src/core/">
+    <Project Path="src/core/Dorva.Application/Dorva.Application.csproj" />
+    <Project Path="src/core/Dorva.Domain/Dorva.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/infrastructure/">
+    <Project Path="src/infrastructure/Dorva.Identity/Dorva.Identity.csproj" />
+    <Project Path="src/infrastructure/Dorva.Infrastructure/Dorva.Infrastructure.csproj" />
+    <Project Path="src/infrastructure/Dorva.Persistence/Dorva.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/src/ui/">
+    <Project Path="src/ui/Dorva.UI/Dorva.UI.csproj" />
+  </Folder>
+</Solution>
